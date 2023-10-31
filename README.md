@@ -1,5 +1,4 @@
-# fake-news-detector
-
+# Fake News Detector
 
 Fake News Detection NLP Project
 Project Overview
