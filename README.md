@@ -1,2 +1,2 @@
 # fake-news-detector
-AI trining to detect fake news on a kaggle dataset
+AI training to detect fake news on a kaggle dataset
