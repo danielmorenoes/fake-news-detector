@@ -1,5 +1,3 @@
-# Fake News Detector
-
 Fake News Detection NLP Project
 ===============================
 
