@@ -55,6 +55,13 @@ cover/
 *.mo
 *.pot
 
+# MLflow
+mlruns/
+mlartifacts/
+outputs/
+mlruns.db
+**/basic_auth.db
+
 # Django stuff:
 *.log
 local_settings.py
